@@ -30,7 +30,7 @@
             </li>
             <li>
               <a
-                href="humbertovalfig@gmail.com"
+                href="mailto:humbertovalfig@gmail.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 class="text-gray-600 hover:text-indigo-600 transition-colors"
@@ -68,12 +68,14 @@
           <div class="text-white">
             <p class="font-bold text-3xl">Humberto Valenzuela</p>
             <p class="text-xl opacity-90">Web Developer</p>
-            <div class="pt-2">
-              <button
-                class="font-medium bg-gray-200 text-black p-2 rounded-4xl hover:bg-gray-500 hover:text-white duration-200"
+            <div class="pt-4">
+              <a
+                href="/public/Humberto_Valenzuela_Resume.pdf"
+                download="CV-Humberto-Valenzuela.pdf"
+                class="font-medium bg-gray-200 text-black px-4 py-2 rounded-full hover:bg-gray-500 hover:text-white duration-200"
               >
                 Download CV
-              </button>
+              </a>
             </div>
           </div>
         </div>
@@ -113,6 +115,14 @@
             >
             <span
               class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm font-medium"
+              >PHP</span
+            >
+            <span
+              class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm font-medium"
+              >GitHub</span
+            >
+            <span
+              class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm font-medium"
               >Tailwind CSS</span
             >
             <span
@@ -134,7 +144,8 @@
                 <div class="flex grid-cols-2 justify-between">
                   <p class="font-bold text-2xl">Pruning Management System</p>
                   <a
-                    href="https://github.com/BeToO2002"
+                    href="https://github.com/BeToO2002/ControlPodasCFE
+"
                     target="_blank"
                     rel="noopener noreferrer"
                     class="text-gray-600 hover:text-indigo-600 transition-colors"
@@ -180,7 +191,7 @@
                   >
                   <span
                     class="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm font-medium"
-                    >Mobile Dev</span
+                    >PHP</span
                   >
                 </div>
               </div>
